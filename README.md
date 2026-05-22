@@ -1,2 +1,1 @@
-Preparing the Docs for this video tutorial.
-Gggggggggggggggggggggg
+Preparing the Docs for this video tutorial....

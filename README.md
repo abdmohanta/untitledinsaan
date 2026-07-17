@@ -28,3 +28,24 @@ Application Context
 
 Part 3 - Spring Boot Project Structure
 
+src
+ ├── main
+ │    ├── java
+ │    │      ├── controller
+ │    │      ├── service
+ │    │      ├── repository
+ │    │      ├── entity
+ │    │      ├── dto
+ │    │      ├── config
+ │    │      ├── exception
+ │    │      ├── security
+ │    │      └── Application.java
+ │    └── resources
+ │           ├── application.properties
+ │           ├── static
+ │           ├── templates
+ │           └── banner.txt
+ └── test
+
+
+ 

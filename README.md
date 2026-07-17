@@ -1,7 +1,8 @@
 
-📘 Spring Boot Complete Notes (Handwritten Style)
+📘 Spring Boot Complete Notes
 
 Part 1 - Introduction to Spring Boot
+
 What is Spring Boot?
 Why Spring Boot?
 Features

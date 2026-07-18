@@ -693,7 +693,7 @@ If you found this repository helpful:
 
 🍴 Fork this repository
 
-📢 Share it with others
+Share it with others
 
 Happy Learning! 🚀
  

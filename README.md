@@ -679,21 +679,5 @@ Fork the repository, improve the content, and submit a Pull Request.
 
 ---
 
-# License
 
-This repository is licensed under the MIT License.
-
----
-
-# ⭐ Support
-
-If you found this repository helpful:
-
-⭐ Star this repository
-
-🍴 Fork this repository
-
-Share it with others
-
-Happy Learning!
 

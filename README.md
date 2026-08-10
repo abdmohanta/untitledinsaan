@@ -675,7 +675,7 @@ springboot-complete-guide
 
 Contributions are welcome.
 
-Fork the repository, improve the content, and submit a Pull Request.
+For the repository, improve the content, and submit a Pull Request.
 
 ---
 

@@ -669,15 +669,11 @@ springboot-complete-guide
 - Jenkins
 - GitHub Actions
 
----
 
 # Contributions
 
 Contributions are welcome.
 
 For the repository, improve the content, and submit a Pull Request.
-
----
-
 
 

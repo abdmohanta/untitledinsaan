@@ -443,20 +443,6 @@ Database
 Endpoints
 
 ```
-/health
-
-/info
-
-/env
-
-/metrics
-
-/loggers
-
-/beans
-
-/mappings
-```
 
 ---
 
